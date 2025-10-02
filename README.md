@@ -4,31 +4,28 @@
  You can find a self-paced version of this workshop, and others, on our [ArcGIS Online landing page](https://stanford.maps.arcgis.com/home/index.html).
 
 ## Meet Earth Engine
-Google Earth Engine is a geospatial processing service. With Earth Engine, you can perform geospatial processing at scale, powered by Google Cloud Platform. The purpose of Earth Engine is to:
+Google Earth Engine (GEE) is a cloud-based geospatial analysis platform that empowers researchers to process and analyze satellite imagery and geospatial datasets at scale. As a Stanford researcher, GEE enables you to conduct data-driven science, develop geospatial algorithms, and address global challenges using planetary-scale data resources.
 
-Provide an interactive platform for geospatial algorithm development at scale
-Enable high-impact, data-driven science
-Make substantive progress on global challenges that involve large geospatial datasets
-Google Earth Engine combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface.
+Earth Engine provides:
+- An interactive environment for developing and running geospatial analyses
+- Access to a multi-petabyte catalog of satellite imagery and scientific datasets
+- Tools for detecting changes, mapping trends, and quantifying differences on the Earth's surface
 
-The Earth Engine API (application programming interface) provides the ability to create your own algorithms to process raster and vector imagery.
+The Earth Engine API allows you to create custom workflows for processing raster and vector data. This onboarding session is designed for Stanford researchers interested in leveraging GEE for remote sensing and geospatial analysis, even without extensive local computing resources.
 
-## Description
-This session is geared toward people who would like to analyze satellite and vector data without access to computing resources typically required for that work on local computers. The session is hands-on, using the Earth Engine Javascript code editor.
+**Session Overview:**
+- Introduction to the Earth Engine platform and its capabilities
+- Overview of remote sensing concepts
+- Hands-on exercises using the Earth Engine JavaScript Code Editor
+- Guidance on accessing imagery, creating composites, running analyses, and exporting results
 
-The first part of the class will be an overview of the Google Earth Engine Platform, and Remote Sensing, in general. The second half will focus on accessing imagery, creating composites, and running analyses over stacks of images, computing statistics on imagery, creating charts and exporting the results of your analyses.
+**Prerequisites:**
+No prior experience with Earth Engine or JavaScript is required. Familiarity with programming, remote sensing, or GIS concepts is helpful but not mandatory.
 
+**Getting Started:**
+This workshop is tailored for Stanford University affiliates, most of whom should already have access to Google Earth Engine. If you are unable to access the Google Earth Engine Code Editor, please email stanford-geospatial@stanford.edu to request access. 
 
-## Prerequisites
-No previous experience with Earth Engine or JavaScript is necessary for the beginner workshop, but programming experience, basic knowledge of remote sensing and/or GIS are highly desirable.
-
-
-## Getting Ready
-Please note that this workshop is presented for Stanford University affiliates, and that the recordings and materials are provided without access to Google Earth Engine, included.
-
-For best results, use a modern, Chromium-based browser.
-
-If you are a Stanford University affiliate, and are not currently able to login to the Google Earth Engine Code Editor, email stanford-geospatial@stanford.edu to request access. 
+For the best experience, use a modern Chromium-based browser.
 
 If you are not a Stanford affiliate, you can request access to Google Earth Engine at:  https://signup.earthengine.google.com 
 
