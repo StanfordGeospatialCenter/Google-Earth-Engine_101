@@ -33,22 +33,22 @@ The Earth Engine API allows you to create custom workflows for processing raster
 No prior experience with Earth Engine or JavaScript is required. Familiarity with programming, remote sensing, or GIS concepts is helpful but not mandatory.
 
 **Getting Started:**
-This workshop is tailored for Stanford University affiliates, most of whom should already have access to Google Earth Engine. If you are unable to access the Google Earth Engine Code Editor, please email stanford-geospatial@stanford.edu to request access.
+This workshop is tailored for Stanford University affiliates, most of whom should already have access to Google Earth Engine. If you are unable to access the Google Earth Engine Code Editor, please email **stanford-geospatial@stanford.edu** to request access.
 
 For the best experience, use a modern Chromium-based browser.
 
-If you are not a Stanford affiliate, you can request access to Google Earth Engine at:  https://signup.earthengine.google.com
+If you are not a Stanford affiliate, you can request access to Google Earth Engine at:  [https://signup.earthengine.google.com](https://signup.earthengine.google.com)
 
 ## The Slides
 
 You can access the slides for the workshop at:
-https://slides.com/staceymaples/rswithgee/
+https://[slides.com/staceymaples/rswithgee/](https://slides.com/staceymaples/rswithgee/)
 
 ## The Sample Scripts
 
 Once you have signed up for and received confirmation of your Google Earth Engine account, you can copy the script repository for this webinar by clicking on the following link, which will redirect you to the Google Earth Engine Code Editor and import a series of scripts designed to introduce you to the basic mechanics of working in Google Earth Engine:
 
-https://code.earthengine.google.com/?accept_repo=users/stacemaples/SGC-EE101
+https://[code.earthengine.google.com/?accept_repo=users/stacemaples/SGC-EE101](https://code.earthengine.google.com/?accept_repo=users/stacemaples/SGC-EE101)
 
 ## The Instructor's Guide
 
@@ -58,13 +58,13 @@ This one doesn't really have a tutorial text, since it's really about looking at
 
 ## More Earth Engine
 
-As noted, this webinar is a modified version of the Google Earth Outreach Team's own beginning workshop. You can find more materials to help you learn to use Google Earth Engine at:  https://developers.google.com/earth-engine
+As noted, this webinar is a modified version of the Google Earth Outreach Team's own beginning workshop. You can find more materials to help you learn to use Google Earth Engine at:  [https://developers.google.com/earth-engine](https://developers.google.com/earth-engine)
 
 Here are some highlights:
 
-* The Google Earth Engine Data Catalog -  https://developers.google.com/earth-engine/datasets  - Earth Engine's 60+ Petabyte public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
-* JavaScript, REST and Python Guides -  https://developers.google.com/earth-engine/guides  -  Google Earth Engine includes Python, JavaScript and REST APIs. The Quickstart for the REST API can be found, here:  https://developers.google.com/earth-engine/reference/Quickstart
-* The Google Earth Engine Developers Group represents nearly a decade of support and open development on the Google Earth Engine platform. If you can't find the answer you are looking for in the archive, the members of this forum are friendly, prompt and helpful with GEE questions:  https://groups.google.com/g/google-earth-engine-developers
+* The Google Earth Engine Data Catalog -  [https://developers.google.com/earth-engine/datasets](https://developers.google.com/earth-engine/datasets)  - Earth Engine's 100+ Petabyte public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
+* JavaScript, REST and Python Guides -  [https://developers.google.com/earth-engine/guides](https://developers.google.com/earth-engine/guides)  -  Google Earth Engine includes Python, JavaScript and REST APIs. The Quickstart for the REST API can be found, here:  [https://developers.google.com/earth-engine/reference/Quickstart](https://developers.google.com/earth-engine/reference/Quickstart)
+* The Google Earth Engine Developers Group represents nearly a decade of support and open development on the Google Earth Engine platform. If you can't find the answer you are looking for in the archive, the members of this forum are friendly, prompt and helpful with GEE questions:  [https://groups.google.com/g/google-earth-engine-developers](https://developers.google.com/earth-engine/reference/Quickstart)
 
 ## References
 
