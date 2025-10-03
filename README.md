@@ -42,7 +42,7 @@ If you are not a Stanford affiliate, you can request access to Google Earth Engi
 ## The Slides
 
 You can access the slides for the workshop at:
-https://[slides.com/staceymaples/rswithgee/](https://slides.com/staceymaples/rswithgee/)
+https://[slides.com/staceymaples/rswithgee/](https://slides.com/d/d7fijPo/live)
 
 ## The Sample Scripts
 
