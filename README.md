@@ -39,6 +39,36 @@ For the best experience, use a modern Chromium-based browser.
 
 If you are not a Stanford affiliate, you can request access to Google Earth Engine at:  [https://signup.earthengine.google.com](https://signup.earthengine.google.com)
 
+## Workshop pages
+
+The workshop content is organized into numbered markdown pages. The recommended reading order (fundamentals → sensors → methods → domain applications → advanced/specialized) is below. Each item lists the filename in the repository.
+
+- 00 — `00-meet_earth_engine.md`
+- 01 — `01-earth_engine_data_catalog.md`
+- 02 — `02-code_editor.md`
+- 03 — `03-features_geometries.md`
+- 04 — `04-images.md`
+- 05 — `05-mapping_functions.md`
+- 06 — `06-reducers.md`
+- 07 — `07-band_math.md`
+- 08 — `08-scale.md`
+- 09 — `09-tasks.md`
+- 10 — `10-landsat.md`
+- 11 — `11-sentinel2.md`
+- 12 — `12-sentinel1.md`
+- 13 — `13-dynamic_world.md`
+- 14 — `14-alphaearth_embeddings.md`
+- 15 — `15-terrain.md`
+- 16 — `16-forests.md`
+- 17 — `17-water.md`
+- 18 — `18-agriculture.md`
+- 19 — `19-fire.md`
+- 20 — `20-weather.md`
+- 21 — `21-climate.md`
+- 22 — `22-polar.md`
+
+Use this list when following the workshop or updating cross-file links. If you prefer a different ordering or want me to add a table-of-contents with short descriptions for each page, tell me and I will update this file.
+
 ## The Slides
 
 You can access the slides for the workshop at:
