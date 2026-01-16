@@ -1,4 +1,4 @@
-# 🌍 Getting Started with Google Earth Engine on Google Cloud
+# Getting Started with Google Earth Engine on Google Cloud
 
 ### A Student Guide to Creating a GCP Project, Registering it for Earth Engine, and Enabling the API
 
