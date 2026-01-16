@@ -1,4 +1,4 @@
-# Google-Earth-Engine_101
+### Google-Earth-Engine_101
 
 Short URL: [goto.stanford.edu/gee101](https://goto.stanford.edu/gee101)
 
@@ -6,7 +6,7 @@ This Repo: [https://github.com/StanfordGeospatialCenter/Google-Earth-Engine_101]
 
 This ReadMe as a WebPage: [https://stanfordgeospatialcenter.github.io/Google-Earth-Engine_101/](https://stanfordgeospatialcenter.github.io/Google-Earth-Engine_101/)
 
-An Introduction to Google Earth Engine for Complete Beginners.
+## An Introduction to Google Earth Engine for Complete Beginners.
 
 You can find a self-paced version of this workshop, and others, on our [ArcGIS Online landing page](https://stanford.maps.arcgis.com/home/index.html).
 
