@@ -72,7 +72,7 @@ Use this list when following the workshop or updating cross-file links. If you p
 ## The Slides
 
 You can access the slides for the workshop at:
-https://[slides.com/staceymaples/rswithgee/](https://slides.com/d/d7fijPo/live)
+https://[slides.com/staceymaples/rswithgee/](https://slides.com/d/d7fijPo/live)  
 
 ## The Sample Scripts
 
