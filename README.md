@@ -1,5 +1,3 @@
-### Google-Earth-Engine_101
-
 Short URL: [goto.stanford.edu/gee101](https://goto.stanford.edu/gee101)
 
 This Repo: [https://github.com/StanfordGeospatialCenter/Google-Earth-Engine_101](https://github.com/StanfordGeospatialCenter/Google-Earth-Engine_101)
