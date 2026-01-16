@@ -72,13 +72,13 @@ Use this list when following the workshop or updating cross-file links. If you p
 ## The Slides
 
 You can access the slides for the workshop at:
-https://[slides.com/staceymaples/rswithgee/](https://slides.com/d/d7fijPo/live)  
+[https://slides.com/staceymaples/rswithgee/](https://slides.com/d/d7fijPo/live))  
 
 ## The Sample Scripts
 
 Once you have signed up for and received confirmation of your Google Earth Engine account, you can copy the script repository for this webinar by clicking on the following link, which will redirect you to the Google Earth Engine Code Editor and import a series of scripts designed to introduce you to the basic mechanics of working in Google Earth Engine:
 
-https://[code.earthengine.google.com/?accept_repo=users/stacemaples/SGC-EE101](https://code.earthengine.google.com/?accept_repo=users/stacemaples/SGC-EE101)
+[https://code.earthengine.google.com/?accept_repo=users/stacemaples/SGC-EE101](https://code.earthengine.google.com/?accept_repo=users/stacemaples/SGC-EE101)
 
 ## The Instructor's Guide
 
